@@ -1,0 +1,52 @@
+#banner img {
+    width: 1000px;
+    height: 200px;
+}
+
+#banner {
+    display: block;
+    background-color: peru;
+}
+
+#menu a:link {
+    color: brown
+}
+
+#menu a:hover {
+    color: red
+}
+
+#menu a.active {
+    color: black
+}
+
+#menu {
+    text-align: center;
+    font-size: 22px;
+    border: peru solid 1px;
+    background-color: peru
+}
+
+#menu a {
+    text-decoration: none;
+    padding: 20px
+}
+
+.cot {
+    float: left;
+    width: 33.3333333%;
+    height: 1000px;
+    display: block;
+}
+
+.cot img {
+    max-width: 100%;
+    display: block
+}
+
+.cot img:hover {
+    transform: scale(1.5);
+}
+
+
+}
