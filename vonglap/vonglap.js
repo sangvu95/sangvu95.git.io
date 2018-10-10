@@ -1,6 +1,6 @@
 //Bài 1
-var a=1
-function bai1(num) {for (var i=num;i>1;i--){a=a*i} return a}
+
+function bai1(num) {for (var a=1;var i=num;i>1;i--){a=a*i} return a}
 //testcase bai1(3)
 
 //Bài 2
